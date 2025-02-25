@@ -1,0 +1,150 @@
+FoodItem,Cuisine,DishType,Ingredients,SpiceLevel,CookingMethod,MealType
+Biryani,Mughlai,Non-Veg,"Rice, Chicken, Spices, Saffron, Yogurt",Spicy,Boiled,Lunch
+Butter Chicken,North Indian,Non-Veg,"Chicken, Tomato, Butter, Cream, Spices",Medium,Grilled,Dinner
+Chole Bhature,Punjabi,Veg,"Chickpeas, Flour, Spices, Curd",Medium,Fried,Breakfast
+Masala Dosa,South Indian,Veg,"Rice, Lentils, Potato, Curry Leaves",Mild,Fried,Breakfast
+Rogan Josh,Kashmiri,Non-Veg,"Mutton, Yogurt, Spices, Garlic",Spicy,Boiled,Dinner
+Idli,South Indian,Veg,"Rice, Urad Dal, Salt",Mild,Steamed,Breakfast
+Pulao,North Indian,Veg,"Rice, Vegetables, Spices",Mild,Boiled,Lunch
+Dhokla,Gujarati,Veg,"Rice, Chickpea Flour, Curd, Mustard Seeds",Mild,Steamed,Snack
+Paneer Tikka,North Indian,Veg,"Paneer, Yogurt, Spices",Medium,Grilled,Snack
+Fish Curry,Bengali,Non-Veg,"Fish, Mustard, Tomato, Spices",Medium,Boiled,Lunch
+Vada Pav,Maharashtrian,Veg,"Potato, Flour, Spices, Bread",Spicy,Fried,Snack
+Mutton Korma,Mughlai,Non-Veg,"Mutton, Yogurt, Spices, Cashews",Spicy,Boiled,Dinner
+Dal Makhani,Punjabi,Veg,"Black Lentils, Cream, Butter, Spices",Medium,Boiled,Dinner
+Samosa,North Indian,Veg,"Potato, Flour, Peas, Spices",Medium,Fried,Snack
+Hyderabadi Biryani,Hyderabadi,Non-Veg,"Rice, Mutton, Spices, Saffron",Spicy,Boiled,Lunch
+Tandoori Chicken,North Indian,Non-Veg,"Chicken, Yogurt, Spices",Spicy,Grilled,Dinner
+Aloo Paratha,Punjabi,Veg,"Wheat Flour, Potato, Spices, Butter",Medium,Fried,Breakfast
+Rasam,South Indian,Veg,"Tamarind, Tomato, Spices, Garlic",Spicy,Boiled,Lunch
+Pav Bhaji,Maharashtrian,Veg,"Vegetables, Butter, Spices, Bread",Spicy,Boiled,Snack
+Shahi Paneer,North Indian,Veg,"Paneer, Tomato, Cream, Spices",Medium,Boiled,Dinner
+Misal Pav,Maharashtrian,Veg,"Sprouts, Spices, Bread, Onion",Spicy,Boiled,Breakfast
+Dosa,South Indian,Veg,"Rice, Lentils, Potato, Curry Leaves",Mild,Fried,Breakfast
+Keema Paratha,North Indian,Non-Veg,"Wheat Flour, Mutton, Spices",Spicy,Fried,Breakfast
+Chicken 65,South Indian,Non-Veg,"Chicken, Spices, Curry Leaves",Spicy,Fried,Snack
+Kadhi Pakora,North Indian,Veg,"Gram Flour, Yogurt, Spices, Pakoras",Mild,Boiled,Lunch
+Gulab Jamun,North Indian,Veg,"Milk Solids, Sugar, Flour, Cardamom",Mild,Fried,Dessert
+Jalebi,North Indian,Veg,"Flour, Sugar, Cardamom, Saffron",Medium,Fried,Dessert
+Lassi,Punjabi,Veg,"Yogurt, Sugar, Cardamom, Rose Water",Mild,Blended,Drink
+Rasgulla,Bengali,Veg,"Cheese, Sugar, Cardamom, Water",Mild,Boiled,Dessert
+Dish_31,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_32,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_33,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_34,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_35,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_36,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_37,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_38,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_39,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_40,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_41,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_42,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_43,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_44,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_45,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_46,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_47,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_48,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_49,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_50,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_51,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_52,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_53,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_54,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_55,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_56,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_57,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_58,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_59,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_60,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_61,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_62,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_63,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_64,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_65,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_66,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_67,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_68,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_69,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_70,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_71,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_72,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_73,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_74,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_75,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_76,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_77,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_78,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_79,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_80,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_81,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_82,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_83,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_84,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_85,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_86,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_87,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_88,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_89,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_90,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_91,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_92,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_93,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_94,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_95,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_96,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_97,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_98,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_99,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_100,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_101,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_102,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_103,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_104,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_105,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_106,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_107,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_108,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_109,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_110,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_111,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_112,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_113,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_114,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_115,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_116,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_117,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_118,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_119,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_120,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_121,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_122,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_123,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_124,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_125,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_126,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_127,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_128,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_129,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_130,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_131,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_132,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_133,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_134,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_135,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_136,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_137,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_138,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_139,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_140,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_141,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_142,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_143,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_144,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_145,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_146,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_147,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_148,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_149,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch
+Dish_150,Mixed,Veg,Random Ingredients,Medium,Boiled,Lunch

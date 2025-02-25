@@ -1,0 +1,51 @@
+FoodItem,Cuisine,Category,Ingredients,Rating,OrderCount
+Biryani,Mughlai,Main Course,"Rice, Chicken, Spices",4.529339760583699,310
+Butter Chicken,Punjabi,Main Course,"Chicken, Butter, Tomato, Cream",4.490624494716328,109
+Paneer Tikka,Punjabi,Starter,"Paneer, Spices, Yogurt",4.670084935245712,1285
+Masala Dosa,South Indian,Breakfast,"Rice, Urad Dal, Spices",3.9949014429433327,4492
+Chole Bhature,Punjabi,Main Course,"Chickpeas, Flour, Spices",4.251946386953835,1712
+Palak Paneer,North Indian,Main Course,"Spinach, Paneer, Spices",3.9550534938989896,455
+Rogan Josh,Kashmiri,Main Course,"Mutton, Yogurt, Spices",4.515759592915082,3543
+Hyderabadi Biryani,Hyderabadi,Main Course,"Rice, Chicken, Spices",4.949668186336856,2994
+Dal Makhani,Punjabi,Main Course,"Lentils, Butter, Cream",4.2888593847783,916
+Pulao,North Indian,Main Course,"Rice, Vegetables, Spices",4.060285977908005,2890
+Aloo Paratha,Punjabi,Breakfast,"Wheat Flour, Potato, Spices",4.281696689436195,3170
+Tandoori Chicken,Mughlai,Starter,"Chicken, Yogurt, Spices",4.0519096241666865,2545
+Idli Sambar,South Indian,Breakfast,"Rice, Lentils, Sambar",4.610081569703899,3281
+Mutton Curry,Bengali,Main Course,"Mutton, Tomato, Spices",3.93382723154738,3121
+Pani Puri,Street Food,Snack,"Flour, Potato, Chickpeas, Spices",3.8909271334507722,1585
+Dhokla,Gujarati,Snack,"Chickpeas, Rice Flour, Spices",4.762375352108167,3196
+Misal Pav,Maharashtrian,Snack,"Sprouts, Pav, Spices",4.182348842740219,228
+Vada Pav,Maharashtrian,Snack,"Potato, Pav, Chutney",4.561910680588162,158
+Pav Bhaji,Mumbai Street Food,Snack,"Vegetables, Pav, Butter",4.405101903263267,4116
+Gulab Jamun,North Indian,Dessert,"Milk, Sugar, Flour",3.871984870653984,3322
+Rasgulla,Bengali,Dessert,"Milk, Sugar",4.713990544017577,4590
+Jalebi,North Indian,Dessert,"Flour, Sugar, Ghee",4.270026961334759,1832
+Rabri,Rajasthani,Dessert,"Milk, Sugar, Nuts",4.821702537117728,1227
+Lassi,Punjabi,Beverage,"Milk, Yogurt, Sugar",4.9922908439204,1190
+Filter Coffee,South Indian,Beverage,"Coffee Beans, Milk",3.5546008448782187,3237
+Chai,North Indian,Beverage,"Tea Leaves, Milk, Sugar",4.770175290129681,4879
+Mango Lassi,Punjabi,Beverage,"Mango, Yogurt, Sugar",3.726434415631066,3201
+Thandai,North Indian,Main Course,"Milk, Almonds, Saffron",3.675577134476912,2381
+Kadhi Pakora,Punjabi,Main Course,"Yogurt, Gram Flour, Spices",3.81431756534311,3708
+Baingan Bharta,North Indian,Main Course,"Eggplant, Tomato, Spices",3.970678449536771,1158
+Rajma Chawal,Punjabi,Main Course,"Kidney Beans, Rice, Spices",3.5888899697575978,4601
+Malai Kofta,Mughlai,Main Course,"Paneer, Cream, Spices",3.7634599666973387,1650
+Shahi Paneer,Mughlai,Main Course,"Paneer, Tomato, Spices",4.336487080702409,3393
+Chicken Korma,Mughlai,Main Course,"Chicken, Yogurt, Spices",4.317912669125352,3461
+Daal Baati Churma,Rajasthani,Main Course,"Wheat, Lentils, Ghee",3.755909995412269,2516
+Pesarattu,South Indian,Breakfast,"Green Gram, Spices",4.450847733124378,509
+Neer Dosa,South Indian,Breakfast,"Rice, Coconut, Spices",3.506567947896669,132
+Appam,South Indian,Breakfast,"Rice, Coconut Milk",4.725920229956138,3229
+Undhiyu,Gujarati,Main Course,"Mixed Vegetables, Spices",4.008934100534766,4532
+Samosa,Street Food,Snack,"Potato, Flour, Spices",3.8831071028913486,2452
+Pakora,North Indian,Snack,"Gram Flour, Vegetables, Spices",4.177901584293775,1805
+Mysore Pak,South Indian,Dessert,"Gram Flour, Sugar, Ghee",4.938585883758463,578
+Gajar Halwa,North Indian,Dessert,"Carrot, Milk, Sugar",3.6811023948793906,2751
+Moong Dal Halwa,North Indian,Dessert,"Lentils, Milk, Sugar",4.546445011717014,2559
+Kaju Katli,North Indian,Dessert,"Cashew Nuts, Sugar, Ghee",4.867941900884258,3506
+Modak,Maharashtrian,Dessert,"Coconut, Jaggery, Flour",4.258722913101203,2204
+Phirni,Mughlai,Dessert,"Rice, Milk, Sugar",3.7934695734816444,2329
+Seviyan Kheer,North Indian,Dessert,"Vermicelli, Milk, Sugar",4.14405541761162,4928
+Mutton Seekh Kebab,Mughlai,Starter,"Mutton, Spices",4.812126261101107,4534
+Fish Curry,Bengali,Main Course,"Fish, Coconut Milk, Spices",4.904961725951327,3249
