@@ -1,8 +1,8 @@
 import axios from "axios";
 
-const FLASK_BASE_URL = "http://localhost:5000"; // Update if running on a different port
-const FLASK_BASE_URL2="http://localhost:5001";
-// Fetch recommendations based on restaurant name
+const FLASK_BASE_URL = process.env.FLASK_BASE_URL ?? "http://localhost:5000";
+const FLASK_BASE_URL2=process.env.FLASK_BASE_URL ?? "http://localhost:5001";
+
 export const fetchRecommendations = async (restaurantName: string) => {
     try {
         const response = await axios.get(`${FLASK_BASE_URL}/api/recommend`, {
@@ -14,7 +14,7 @@ export const fetchRecommendations = async (restaurantName: string) => {
     }
 };
 
-// Fetch restaurant name suggestions
+
 export const fetchSuggestions = async (query: string) => {
     try {
         const response = await axios.get(`${FLASK_BASE_URL}/api/suggest`, {

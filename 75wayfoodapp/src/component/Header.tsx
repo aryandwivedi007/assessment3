@@ -16,6 +16,7 @@ import {
   ListItem,
   ListItemText,
   Hidden,
+  Divider,
 } from "@mui/material";
 import { Link, useNavigate } from "react-router-dom";
 import { FaSearch, FaLocationArrow } from "react-icons/fa";
@@ -24,7 +25,7 @@ import { RootState } from "../store/store";
 import { useLogoutMutation } from "../services/api";
 import { useGetSuggestionsQuery, useGetFoodSuggestionQuery } from "../services/api"; // Import your API hook
 import foodList from "../data/searchFood";
-
+import { MdFastfood } from "react-icons/md";
 import { motion } from "framer-motion";
 const Header: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState("");
@@ -125,7 +126,7 @@ const Header: React.FC = () => {
             </Hidden>
           </Box>
 
-          
+
           <Box sx={{ position: "relative", maxWidth: "500px", flex: 1 }}>
             <Box
               sx={{
@@ -135,7 +136,7 @@ const Header: React.FC = () => {
                 padding: "8px 14px",
                 borderRadius: "8px",
                 width: { xs: "60%", sm: "70%", md: "100%" },
-                margin:{xs:"10px"}
+                margin: { xs: "10px" }
               }}
             >
               <FaSearch size={18} color="#666" />
@@ -173,25 +174,53 @@ const Header: React.FC = () => {
                       padding: "8px",
                     }}
                   >
-                    <List sx={{ width: "100%" }}>
+                    <List
+                      sx={{
+                        width: "100%",
+                        borderRadius: "10px",
+                        boxShadow: "0px 6px 16px rgba(0, 0, 0, 0.15)",
+                        backgroundColor: "#fff",
+                        overflow: "hidden",
+                        padding: "6px 0",
+                      }}
+                    >
                       {mergedSuggestions.map((name: string, index: number) => (
                         <motion.div
                           key={index}
-                          whileHover={{ scale: 1.02 }}
-                          whileTap={{ scale: 0.98 }}
+                          whileHover={{ scale: 1.03 }}
+                          whileTap={{ scale: 0.97 }}
+                          style={{ width: "95%" }}
                         >
                           <ListItem
                             component="button"
                             onClick={() => handleSuggestionClick(name)}
                             sx={{
-                              padding: "12px",
-                              borderRadius: "6px",
-                              transition: "background-color 0.2s ease-in-out",
-                              "&:hover": { backgroundColor: "#f0f0f0" },
+                              display: "flex",
+                              alignItems: "center",
+                              padding: "14px 18px",
+                              transition: "background 0.3s ease-in-out",
+                              "&:hover": {
+                                background: "linear-gradient(to right, #ff7e5f, #feb47b)",
+                                color: "#fff",
+                              },
+                              borderRadius: "8px",
+                              margin: "4px 12px",
                             }}
                           >
-                            <ListItemText primary={name} />
+                            <MdFastfood size={22} color="#ff4f5a" style={{ marginRight: "12px" }} />
+                            <ListItemText
+                              primary={name}
+                              sx={{
+                                fontWeight: 600,
+                                fontSize: "16px",
+                                color: "#333",
+                                transition: "color 0.3s ease-in-out",
+                              }}
+                            />
                           </ListItem>
+                          {index !== mergedSuggestions.length - 1 && (
+                            <Divider sx={{ margin: "0 12px", backgroundColor: "#ddd" }} />
+                          )}
                         </motion.div>
                       ))}
                     </List>
